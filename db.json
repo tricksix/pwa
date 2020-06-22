@@ -1,6 +1,5 @@
-# pwa
-{ "product" :
-[{
+{
+  "product" :[{
   "id": 1,
   "name": "Buffalo, african",
   "category": "Yellow"
@@ -401,6 +400,4 @@
   "name": "Buffalo, american",
   "category": "Goldenrod"
 }]
-
-
 }
