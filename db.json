@@ -1,403 +1,104 @@
 {
-  "product" :[{
-  "id": 1,
-  "name": "Buffalo, african",
-  "category": "Yellow"
-}, {
-  "id": 2,
-  "name": "Spotted-tailed quoll",
-  "category": "Fuscia"
-}, {
-  "id": 3,
-  "name": "Wolf, common",
-  "category": "Crimson"
-}, {
-  "id": 4,
-  "name": "Nyala",
-  "category": "Red"
-}, {
-  "id": 5,
-  "name": "Turtle, long-necked",
-  "category": "Red"
-}, {
-  "id": 6,
-  "name": "Goose, snow",
-  "category": "Puce"
-}, {
-  "id": 7,
-  "name": "Whale, southern right",
-  "category": "Yellow"
-}, {
-  "id": 8,
-  "name": "Elephant, african",
-  "category": "Khaki"
-}, {
-  "id": 9,
-  "name": "Cockatoo, long-billed",
-  "category": "Khaki"
-}, {
-  "id": 10,
-  "name": "Hoary marmot",
-  "category": "Mauv"
-}, {
-  "id": 11,
-  "name": "Rhinoceros, white",
-  "category": "Turquoise"
-}, {
-  "id": 12,
-  "name": "Bird, secretary",
-  "category": "Teal"
-}, {
-  "id": 13,
-  "name": "Possum, ring-tailed",
-  "category": "Turquoise"
-}, {
-  "id": 14,
-  "name": "Eastern cottontail rabbit",
-  "category": "Purple"
-}, {
-  "id": 15,
-  "name": "Australian masked owl",
-  "category": "Aquamarine"
-}, {
-  "id": 16,
-  "name": "Common ringtail",
-  "category": "Mauv"
-}, {
-  "id": 17,
-  "name": "White spoonbill",
-  "category": "Puce"
-}, {
-  "id": 18,
-  "name": "Savannah deer (unidentified)",
-  "category": "Teal"
-}, {
-  "id": 19,
-  "name": "Gambel's quail",
-  "category": "Aquamarine"
-}, {
-  "id": 20,
-  "name": "Southern tamandua",
-  "category": "Khaki"
-}, {
-  "id": 21,
-  "name": "Caiman, spectacled",
-  "category": "Aquamarine"
-}, {
-  "id": 22,
-  "name": "Hudsonian godwit",
-  "category": "Goldenrod"
-}, {
-  "id": 23,
-  "name": "Lion, steller's sea",
-  "category": "Pink"
-}, {
-  "id": 24,
-  "name": "Black-fronted bulbul",
-  "category": "Aquamarine"
-}, {
-  "id": 25,
-  "name": "Dassie",
-  "category": "Goldenrod"
-}, {
-  "id": 26,
-  "name": "Grenadier, common",
-  "category": "Green"
-}, {
-  "id": 27,
-  "name": "Pacific gull",
-  "category": "Indigo"
-}, {
-  "id": 28,
-  "name": "Colobus, black and white",
-  "category": "Aquamarine"
-}, {
-  "id": 29,
-  "name": "Squirrel, european red",
-  "category": "Indigo"
-}, {
-  "id": 30,
-  "name": "Hornbill, red-billed",
-  "category": "Violet"
-}, {
-  "id": 31,
-  "name": "Finch, common melba",
-  "category": "Blue"
-}, {
-  "id": 32,
-  "name": "Lesser mouse lemur",
-  "category": "Khaki"
-}, {
-  "id": 33,
-  "name": "Booby, blue-footed",
-  "category": "Red"
-}, {
-  "id": 34,
-  "name": "Eastern indigo snake",
-  "category": "Yellow"
-}, {
-  "id": 35,
-  "name": "Prehensile-tailed porcupine",
-  "category": "Orange"
-}, {
-  "id": 36,
-  "name": "Stork, jabiru",
-  "category": "Goldenrod"
-}, {
-  "id": 37,
-  "name": "Bird, magnificent frigate",
-  "category": "Aquamarine"
-}, {
-  "id": 38,
-  "name": "Duiker, common",
-  "category": "Puce"
-}, {
-  "id": 39,
-  "name": "Alpaca",
-  "category": "Puce"
-}, {
-  "id": 40,
-  "name": "Kori bustard",
-  "category": "Maroon"
-}, {
-  "id": 41,
-  "name": "Red-cheeked cordon bleu",
-  "category": "Indigo"
-}, {
-  "id": 42,
-  "name": "Hanuman langur",
-  "category": "Maroon"
-}, {
-  "id": 43,
-  "name": "Tyrant flycatcher",
-  "category": "Khaki"
-}, {
-  "id": 44,
-  "name": "Blackbuck",
-  "category": "Goldenrod"
-}, {
-  "id": 45,
-  "name": "Crimson-breasted shrike",
-  "category": "Violet"
-}, {
-  "id": 46,
-  "name": "Orca",
-  "category": "Fuscia"
-}, {
-  "id": 47,
-  "name": "Koala",
-  "category": "Orange"
-}, {
-  "id": 48,
-  "name": "Woodcock, american",
-  "category": "Fuscia"
-}, {
-  "id": 49,
-  "name": "Beisa oryx",
-  "category": "Turquoise"
-}, {
-  "id": 50,
-  "name": "White-throated toucan",
-  "category": "Crimson"
-}, {
-  "id": 51,
-  "name": "Asiatic wild ass",
-  "category": "Aquamarine"
-}, {
-  "id": 52,
-  "name": "Snake, tiger",
-  "category": "Teal"
-}, {
-  "id": 53,
-  "name": "Goose, andean",
-  "category": "Turquoise"
-}, {
-  "id": 54,
-  "name": "Yellow mongoose",
-  "category": "Teal"
-}, {
-  "id": 55,
-  "name": "Flying fox (unidentified)",
-  "category": "Goldenrod"
-}, {
-  "id": 56,
-  "name": "Kangaroo, black-faced",
-  "category": "Puce"
-}, {
-  "id": 57,
-  "name": "Jungle kangaroo",
-  "category": "Goldenrod"
-}, {
-  "id": 58,
-  "name": "Hippopotamus",
-  "category": "Fuscia"
-}, {
-  "id": 59,
-  "name": "Swan, trumpeter",
-  "category": "Indigo"
-}, {
-  "id": 60,
-  "name": "Groundhog",
-  "category": "Goldenrod"
-}, {
-  "id": 61,
-  "name": "Egyptian viper",
-  "category": "Pink"
-}, {
-  "id": 62,
-  "name": "Goose, cape barren",
-  "category": "Green"
-}, {
-  "id": 63,
-  "name": "Griffon vulture",
-  "category": "Mauv"
-}, {
-  "id": 64,
-  "name": "Brush-tailed bettong",
-  "category": "Yellow"
-}, {
-  "id": 65,
-  "name": "Squirrel, antelope ground",
-  "category": "Turquoise"
-}, {
-  "id": 66,
-  "name": "Laughing dove",
-  "category": "Indigo"
-}, {
-  "id": 67,
-  "name": "Smith's bush squirrel",
-  "category": "Pink"
-}, {
-  "id": 68,
-  "name": "Starling, greater blue-eared",
-  "category": "Mauv"
-}, {
-  "id": 69,
-  "name": "Hartebeest, coke's",
-  "category": "Red"
-}, {
-  "id": 70,
-  "name": "Hyena, spotted",
-  "category": "Indigo"
-}, {
-  "id": 71,
-  "name": "Arctic fox",
-  "category": "Teal"
-}, {
-  "id": 72,
-  "name": "Pine siskin",
-  "category": "Turquoise"
-}, {
-  "id": 73,
-  "name": "Ovenbird",
-  "category": "Turquoise"
-}, {
-  "id": 74,
-  "name": "Caribou",
-  "category": "Green"
-}, {
-  "id": 75,
-  "name": "Woodpecker, red-headed",
-  "category": "Red"
-}, {
-  "id": 76,
-  "name": "Skink, african",
-  "category": "Red"
-}, {
-  "id": 77,
-  "name": "White-cheeked pintail",
-  "category": "Maroon"
-}, {
-  "id": 78,
-  "name": "Black-faced kangaroo",
-  "category": "Fuscia"
-}, {
-  "id": 79,
-  "name": "Brush-tailed bettong",
-  "category": "Goldenrod"
-}, {
-  "id": 80,
-  "name": "Sloth, two-toed tree",
-  "category": "Teal"
-}, {
-  "id": 81,
-  "name": "Possum, golden brush-tailed",
-  "category": "Crimson"
-}, {
-  "id": 82,
-  "name": "Leadbeateri's ground hornbill",
-  "category": "Orange"
-}, {
-  "id": 83,
-  "name": "Cobra (unidentified)",
-  "category": "Yellow"
-}, {
-  "id": 84,
-  "name": "Dog, bush",
-  "category": "Khaki"
-}, {
-  "id": 85,
-  "name": "Coot, red-knobbed",
-  "category": "Mauv"
-}, {
-  "id": 86,
-  "name": "Lark, horned",
-  "category": "Maroon"
-}, {
-  "id": 87,
-  "name": "Common palm civet",
-  "category": "Indigo"
-}, {
-  "id": 88,
-  "name": "Eleven-banded armadillo (unidentified)",
-  "category": "Mauv"
-}, {
-  "id": 89,
-  "name": "Common turkey",
-  "category": "Khaki"
-}, {
-  "id": 90,
-  "name": "Flicker, field",
-  "category": "Violet"
-}, {
-  "id": 91,
-  "name": "Pale-throated three-toed sloth",
-  "category": "Indigo"
-}, {
-  "id": 92,
-  "name": "Glider, sugar",
-  "category": "Crimson"
-}, {
-  "id": 93,
-  "name": "Mexican wolf",
-  "category": "Yellow"
-}, {
-  "id": 94,
-  "name": "Common brushtail possum",
-  "category": "Purple"
-}, {
-  "id": 95,
-  "name": "Pine squirrel",
-  "category": "Red"
-}, {
-  "id": 96,
-  "name": "Manatee",
-  "category": "Yellow"
-}, {
-  "id": 97,
-  "name": "Glider, sugar",
-  "category": "Green"
-}, {
-  "id": 98,
-  "name": "Finch, common melba",
-  "category": "Purple"
-}, {
-  "id": 99,
-  "name": "Steenbok",
-  "category": "Turquoise"
-}, {
-  "id": 100,
-  "name": "Buffalo, american",
-  "category": "Goldenrod"
-}]
+"products" :[
+{"id":1,"name":"North American beaver","category":"Fuscia"},
+{"id":2,"name":"Possum, golden brush-tailed","category":"Teal"},
+{"id":3,"name":"Roe deer","category":"Violet"},
+{"id":4,"name":"Bat, madagascar fruit","category":"Green"},
+{"id":5,"name":"Waved albatross","category":"Blue"},
+{"id":6,"name":"Australian brush turkey","category":"Indigo"},
+{"id":7,"name":"Colobus, white-mantled","category":"Red"},
+{"id":8,"name":"Jackal, silver-backed","category":"Green"},
+{"id":9,"name":"Grebe, little","category":"Blue"},
+{"id":10,"name":"Bee-eater, white-fronted","category":"Goldenrod"},
+{"id":11,"name":"Robin, kalahari scrub","category":"Khaki"},
+{"id":12,"name":"Giant armadillo","category":"Aquamarine"},
+{"id":13,"name":"Ringtail, common","category":"Blue"},
+{"id":14,"name":"Beaver, american","category":"Crimson"},
+{"id":15,"name":"Common dolphin","category":"Turquoise"},
+{"id":16,"name":"Common turkey","category":"Indigo"},
+{"id":17,"name":"Starling, red-shouldered glossy","category":"Khaki"},
+{"id":18,"name":"River wallaby","category":"Mauv"},
+{"id":19,"name":"White spoonbill","category":"Blue"},
+{"id":20,"name":"Curve-billed thrasher","category":"Mauv"},
+{"id":21,"name":"Starfish, crown of thorns","category":"Fuscia"},
+{"id":22,"name":"White-winged tern","category":"Purple"},
+{"id":23,"name":"Screamer, southern","category":"Blue"},
+{"id":24,"name":"Phalarope, grey","category":"Red"},
+{"id":25,"name":"Python, carpet","category":"Teal"},
+{"id":26,"name":"Crested bunting","category":"Violet"},
+{"id":27,"name":"Possum, pygmy","category":"Puce"},
+{"id":28,"name":"Gull, silver","category":"Maroon"},
+{"id":29,"name":"Koala","category":"Khaki"},
+{"id":30,"name":"Great white pelican","category":"Purple"},
+{"id":31,"name":"Serval","category":"Red"},
+{"id":32,"name":"Springbuck","category":"Red"},
+{"id":33,"name":"Kangaroo, brush-tailed rat","category":"Green"},
+{"id":34,"name":"Stanley bustard","category":"Green"},
+{"id":35,"name":"Dove, rock","category":"Green"},
+{"id":36,"name":"Manatee","category":"Teal"},
+{"id":37,"name":"Lemur, lesser mouse","category":"Crimson"},
+{"id":38,"name":"Cow, scottish highland","category":"Puce"},
+{"id":39,"name":"Vulture, lappet-faced","category":"Mauv"},
+{"id":40,"name":"Yellow-billed hornbill","category":"Purple"},
+{"id":41,"name":"Lesser double-collared sunbird","category":"Red"},
+{"id":42,"name":"Baleen whale","category":"Teal"},
+{"id":43,"name":"Deer, swamp","category":"Turquoise"},
+{"id":44,"name":"Mongoose, yellow","category":"Mauv"},
+{"id":45,"name":"Swallow (unidentified)","category":"Purple"},
+{"id":46,"name":"White-eye, cape","category":"Goldenrod"},
+{"id":47,"name":"Snake (unidentified)","category":"Puce"},
+{"id":48,"name":"Barasingha deer","category":"Orange"},
+{"id":49,"name":"Bird, red-billed tropic","category":"Maroon"},
+{"id":50,"name":"Mountain duck","category":"Aquamarine"},
+{"id":51,"name":"Bat, madagascar fruit","category":"Maroon"},
+{"id":52,"name":"Dragon, frilled","category":"Fuscia"},
+{"id":53,"name":"Alligator, american","category":"Puce"},
+{"id":54,"name":"Swan, trumpeter","category":"Yellow"},
+{"id":55,"name":"Common genet","category":"Mauv"},
+{"id":56,"name":"Japanese macaque","category":"Mauv"},
+{"id":57,"name":"Owl, madagascar hawk","category":"Turquoise"},
+{"id":58,"name":"Brazilian tapir","category":"Purple"},
+{"id":59,"name":"Coot, red-knobbed","category":"Yellow"},
+{"id":60,"name":"White stork","category":"Fuscia"},
+{"id":61,"name":"Common mynah","category":"Puce"},
+{"id":62,"name":"White-bellied sea eagle","category":"Indigo"},
+{"id":63,"name":"Antelope ground squirrel","category":"Orange"},
+{"id":64,"name":"Squirrel, malabar","category":"Maroon"},
+{"id":65,"name":"Flicker, campo","category":"Goldenrod"},
+{"id":66,"name":"Brown and yellow marshbird","category":"Fuscia"},
+{"id":67,"name":"African black crake","category":"Yellow"},
+{"id":68,"name":"Small-toothed palm civet","category":"Teal"},
+{"id":69,"name":"Eagle owl (unidentified)","category":"Crimson"},
+{"id":70,"name":"Malay squirrel (unidentified)","category":"Mauv"},
+{"id":71,"name":"Sheep, american bighorn","category":"Blue"},
+{"id":72,"name":"Grey phalarope","category":"Orange"},
+{"id":73,"name":"Brolga crane","category":"Orange"},
+{"id":74,"name":"Australian masked owl","category":"Blue"},
+{"id":75,"name":"Southern brown bandicoot","category":"Fuscia"},
+{"id":76,"name":"Grouse, greater sage","category":"Indigo"},
+{"id":77,"name":"Painted stork","category":"Puce"},
+{"id":78,"name":"Stork, white-necked","category":"Red"},
+{"id":79,"name":"Baboon, chacma","category":"Maroon"},
+{"id":80,"name":"Duck, blue","category":"Orange"},
+{"id":81,"name":"Bottle-nose dolphin","category":"Puce"},
+{"id":82,"name":"Brolga crane","category":"Turquoise"},
+{"id":83,"name":"Gecko, barking","category":"Orange"},
+{"id":84,"name":"Falcon, prairie","category":"Yellow"},
+{"id":85,"name":"Tarantula","category":"Violet"},
+{"id":86,"name":"Grey mouse lemur","category":"Khaki"},
+{"id":87,"name":"Azara's zorro","category":"Crimson"},
+{"id":88,"name":"Egret, great","category":"Teal"},
+{"id":89,"name":"Hoopoe, eurasian","category":"Orange"},
+{"id":90,"name":"Two-toed tree sloth","category":"Green"},
+{"id":91,"name":"Lion, galapagos sea","category":"Goldenrod"},
+{"id":92,"name":"Bird, red-billed tropic","category":"Violet"},
+{"id":93,"name":"African darter","category":"Goldenrod"},
+{"id":94,"name":"Woolly-necked stork","category":"Purple"},
+{"id":95,"name":"Wallaby, whip-tailed","category":"Aquamarine"},
+{"id":96,"name":"Stone sheep","category":"Indigo"},
+{"id":97,"name":"Eagle, white-bellied sea","category":"Green"},
+{"id":98,"name":"Alligator, american","category":"Teal"},
+{"id":99,"name":"Snake, green vine","category":"Turquoise"},
+{"id":100,"name":"Whale, killer","category":"Yellow"}
+]
 }
